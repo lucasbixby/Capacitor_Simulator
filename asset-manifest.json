@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Capacitor_Simulator/static/css/main.ea70ae02.css",
+    "main.js": "/Capacitor_Simulator/static/js/main.c8f583e3.js",
+    "static/js/453.40778e3c.chunk.js": "/Capacitor_Simulator/static/js/453.40778e3c.chunk.js",
+    "index.html": "/Capacitor_Simulator/index.html",
+    "main.ea70ae02.css.map": "/Capacitor_Simulator/static/css/main.ea70ae02.css.map",
+    "main.c8f583e3.js.map": "/Capacitor_Simulator/static/js/main.c8f583e3.js.map",
+    "453.40778e3c.chunk.js.map": "/Capacitor_Simulator/static/js/453.40778e3c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ea70ae02.css",
+    "static/js/main.c8f583e3.js"
+  ]
+}
